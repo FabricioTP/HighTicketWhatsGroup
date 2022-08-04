@@ -8,6 +8,12 @@
     #thirdSection{
         font-size: 22px;
     }
+    #finalSection{
+        padding: 0;
+    }
+    #finalSection p{
+        margin: 0 auto;
+    }
 }
 @media (min-width:1100px){
     header{
@@ -24,6 +30,7 @@
     }
     #finalSection{
         font-size: 20px;
+        padding: ;
     }
     #finalSection input{
         height: 1vh;
