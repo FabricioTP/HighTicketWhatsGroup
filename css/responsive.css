@@ -1,0 +1,88 @@
+@media (min-width:760px){
+    header{
+        font-size: 16px;
+    }
+    #firstSection,#secondSection{
+        font-size: 20px;
+    }
+    #thirdSection{
+        font-size: 22px;
+    }
+}
+@media (min-width:1100px){
+    header{
+        font-size: 18px;
+    }
+    #firstSection{
+        font-size: 22px;
+    }
+    #secondSection{
+        font-size: 26px;
+    }
+    #secondSection li{
+        margin-bottom: 5%;
+    }
+    #finalSection{
+        font-size: 20px;
+    }
+    #finalSection input{
+        height: 1vh;
+    }
+    #finalSection p{
+        margin-bottom: 2%;
+    }
+}
+@media (min-width:1500px){
+    header{
+        font-size: 22px;
+    }
+    header h1, header p{
+        width: 50vw;
+    }
+    header p{
+        margin-top: 3%;
+    }
+    #firstSection{
+        font-size: 28px;
+        margin-bottom: 3%;
+    }
+    #firstSection h1{
+        width: 60vw;
+        margin: 0 auto;
+    }
+    #firstSection p{
+        width: 50vw;
+        margin: 3% auto 3% auto;
+    }
+    #secondSection{
+        font-size: 28px;
+        margin-bottom: 0;
+    }
+    #secondSection ul{
+        width: 50vw;
+        margin: 3% auto;
+    }
+    #secondSection p{
+        text-align: center;
+    }
+    #finalSection{
+        font-size: 26px;
+    }
+    #finalSection h1{
+        width: 60vw;
+        margin: 1% auto;
+    }
+    #finalSection input{
+        margin: 0;
+        width: 30vw;
+        height: .5vh;
+        font-size: 1.3em;
+    }
+    #finalSection p{
+        width: 50VW;
+        margin-bottom: 3%;
+    }
+    #finalSection button{
+        margin: 0;
+    }
+}
