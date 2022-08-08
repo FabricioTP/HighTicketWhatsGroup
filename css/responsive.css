@@ -9,7 +9,7 @@
         font-size: 22px;
     }
     #finalSection{
-        padding: 0;
+        padding-bottom: 7%;
     }
     #finalSection p{
         margin: 0 auto;
@@ -30,7 +30,7 @@
     }
     #finalSection{
         font-size: 20px;
-        padding: ;
+        padding-bottom: 4%
     }
     #finalSection input{
         height: 1vh;
@@ -74,6 +74,7 @@
     }
     #finalSection{
         font-size: 26px;
+        padding-bottom: 3%;
     }
     #finalSection h1{
         width: 60vw;
